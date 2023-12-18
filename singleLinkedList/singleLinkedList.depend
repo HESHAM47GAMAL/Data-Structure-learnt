@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702927275 source:h:\2.work_on_myself\embedded\data_structure\singlelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SingleLinkedList.h"
+
+1702927173 h:\2.work_on_myself\embedded\data_structure\singlelinkedlist\singlelinkedlist.h
+
+1702926780 source:h:\2.work_on_myself\embedded\data_structure\singlelinkedlist\singlelinkedlist.c
+	<stdio.h>
+	"SingleLinkedList.h"
+

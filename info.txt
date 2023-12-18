@@ -1,0 +1,3 @@
+Data structure : is a way to store and organize data in computer , so that can be used efficiently
+
+ADT :abstract data type  
